@@ -49,7 +49,12 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Next.js" />
       <br>Redux
     </td>
-</tr>
+    </td>
+      <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="Express" />
+      <br>Jquery
+  </td>
+  </tr>
 </table>
 
 ### Database Management System :
