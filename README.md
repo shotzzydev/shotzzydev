@@ -13,11 +13,11 @@
     </td>
      <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-    <br>HTML
+    <br>HTML5
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
-     <br>CSS
+     <br>CSS3
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="css" />
