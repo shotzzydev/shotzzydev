@@ -76,7 +76,7 @@
       <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Next.js" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Next.js" />
       <br>Docker
     </td>
   </tr>
