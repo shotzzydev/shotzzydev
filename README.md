@@ -56,7 +56,7 @@
 </td>
 <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="Express" />
-      <br>Jquery
+      <br>DiscordJS
 </td>
   </tr>
 </table>
