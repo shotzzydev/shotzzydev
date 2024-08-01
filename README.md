@@ -45,6 +45,10 @@
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="Express" />
       <br>Jquery
   </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Next.js" />
+      <br>Redux
+    </td>
 </tr>
 </table>
 
@@ -59,6 +63,10 @@
  <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="45" height="55" />
+      <br>PostgreSQL
     </td>
    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Express" />
