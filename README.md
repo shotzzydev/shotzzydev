@@ -1,4 +1,4 @@
-## Hi shotzzy here👋
+## Hi Luan here👋
 ### Languages :
 
 <table>
