@@ -96,6 +96,22 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Next.js" />
       <br>Docker
     </td>
+      <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="Next.js" />
+      <br>Webpack
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Next.js" />
+      <br>Prettier
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
   </tr>
 </table>
 
