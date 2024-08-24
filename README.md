@@ -43,45 +43,26 @@
       <br>Express
 </td>
 <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="Jquery" />
       <br>Jquery
 </td>
 <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
       <br>Bootstrap
 </td>
      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Next.js" />
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" />
       <br>Redux
 </td>
 <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="DiscordJS" />
       <br>DiscordJS
 </td>
+<td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="Babel" />
+      <br>Babel
+</td>
   </tr>
-</table>
-
-### Database Management System :
-
-<table>
-  <tr>
-   <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
- <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="45" height="55" />
-      <br>PostgreSQL
-    </td>
-   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Express" />
-      <br>FireBase
-  </td>
-</tr>
 </table>
 
 ### DevOps tools / OS :
@@ -89,19 +70,19 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
       <br>Linux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Next.js" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" />
       <br>Docker
     </td>
       <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="Next.js" />
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="Webpack" />
       <br>Webpack
     </td>
      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Next.js" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="45" height="45" alt="Prettier" />
       <br>Prettier
     </td>
     <td align="center" width="90">
@@ -112,6 +93,10 @@
       <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" />
       <br>Cloudflare
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
+      <br>Android Studio
+    </td>
   </tr>
 </table>
 
@@ -120,7 +105,7 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
       <br>Git
     </td>
   </tr>
