@@ -11,14 +11,14 @@
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
-     <td align="center" width="90">
+<!--      <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
     <br>HTML5
   </td>
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
      <br>CSS3
-  </td>
+  </td> -->
   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="css" />
     <br>PHP
@@ -30,10 +30,10 @@
 
 <table>
   <tr>
-   <td align="center" width="90">
+<!--    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
-    </td>
+    </td> -->
  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>NodeJS
@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
 </td>
-<td align="center" width="90">
+<!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="Jquery" />
       <br>Jquery
 </td>
@@ -53,15 +53,15 @@
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" />
       <br>Redux
-</td>
+</td> -->
 <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="DiscordJS" />
       <br>DiscordJS
 </td>
-<td align="center" width="90">
+<!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="Babel" />
       <br>Babel
-</td>
+</td> -->
   </tr>
 </table>
 
@@ -93,10 +93,10 @@
       <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare" />
       <br>Cloudflare
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android Studio" />
       <br>Android Studio
-    </td>
+    </td> -->
   </tr>
 </table>
 
