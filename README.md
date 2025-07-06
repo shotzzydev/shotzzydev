@@ -30,10 +30,10 @@
 
 <table>
   <tr>
-<!--    <td align="center" width="90">
+   <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
-    </td> -->
+    </td>
  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>NodeJS
@@ -49,11 +49,11 @@
 <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
       <br>Bootstrap
-</td>
+</td> -->
      <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" />
       <br>Redux
-</td> -->
+</td>
 <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=discordjs" width="45" height="45" alt="DiscordJS" />
       <br>DiscordJS
