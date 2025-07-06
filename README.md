@@ -19,10 +19,10 @@
     <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
      <br>CSS3
   </td> -->
-  <td align="center" width="90">
+<!--   <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="css" />
     <br>PHP
-</td>
+</td> -->
 </tr>
 </table>
 
